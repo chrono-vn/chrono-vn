@@ -26,6 +26,8 @@ I'm a professional developer with expertise in **Progress OpenEdge 4GL**, curren
 - Media services (Jellyfin, *arr suite, YAMS)
 - Network tools (WireGuard, NGINX)
 - Monitoring (Portainer)
+  
+[![Homelab Docs](https://img.shields.io/badge/📖-Homelab_Documentation-2ea44f?style=for-the-badge)](https://github.com/chrono-vn/homelab-docs)
 
 ## 🌐 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-My_Portfolio-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://voidnet.co.za)
