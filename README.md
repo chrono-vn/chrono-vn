@@ -33,6 +33,6 @@ I'm a professional developer with expertise in **Progress OpenEdge 4GL**, curren
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chrono@voidnet.co.za)
 
 ## 📈 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrono-vn&show_icons=true&theme=radical&hide_title=true)](https://github.com/chrono-vn)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrono-vn&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/chrono-vn)
 
 > *"The only way to learn a new technology is to build systems with it."* - David Cutler
