@@ -23,9 +23,7 @@ I'm a professional developer with expertise in **Progress OpenEdge 4GL**, curren
 
 ## 📂 Homelab Highlights
 `docker-compose` stacks running on Ubuntu Server:
-- Media services (Jellyfin, *arr suite, YAMS)
-- Network tools (WireGuard, NGINX)
-- Monitoring (Portainer)
+- NONE! At the moment. Nuking everything to rebuild teehee
   
 [![Homelab Docs](https://img.shields.io/badge/📖-Homelab_Documentation-2ea44f?style=for-the-badge)](https://github.com/chrono-vn/homelab-docs)
 
