@@ -29,7 +29,7 @@ I'm a professional developer with expertise in **Progress OpenEdge 4GL**, curren
 [![Homelab Docs](https://img.shields.io/badge/📖-Homelab_Documentation-2ea44f?style=for-the-badge)](https://github.com/chrono-vn/homelab-docs)
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/-My_Portfolio-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://voidnet.co.za)
+[![Portfolio](https://img.shields.io/badge/-My_Website-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://voidnet.co.za)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mi-adams)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chrono@voidnet.co.za)
 
