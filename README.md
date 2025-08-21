@@ -25,6 +25,7 @@ I'm a professional developer with expertise in **Progress OpenEdge 4GL**, curren
 `docker-compose` stacks running on Ubuntu Server:
 - Management Tools (Heimdall, Portainer)
 - Network Tools (NPM, Wireguard)
+- Media Stack (Jellyfin, *arr Suite, qBittorrent)
   
 [![Homelab Docs](https://img.shields.io/badge/📖-Homelab_Documentation-2ea44f?style=for-the-badge)](https://github.com/chrono-vn/homelab-docs)
 
